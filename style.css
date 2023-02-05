@@ -1,0 +1,25 @@
+body {
+    background-color:lightseagreen;
+}
+h1 {
+    color:chartreuse;
+    text-align: justify;
+}
+h3 {
+    color:black;
+    text-align:justify;
+}
+p {
+    color:red;
+    text-align: justify;
+}
+.nav a {
+    color:white;
+    text-decoration: none;
+    text-align: justify;
+}
+nav a:hover {
+    color:black;
+    text-decoration: none;
+    text-align: justify;
+}
